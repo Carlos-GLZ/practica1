@@ -1,0 +1,6 @@
+REGION=us-east-1
+VPC_ID=vpc-0f6aeef65e0683f12
+SUBNET_ID=subnet-05da992639dce52f0
+IGW_ID=igw-0b2cd14bb79f0f836
+RT_ID=rtb-0029252aae105b49f
+SG_ID=sg-040de7707ae40329b
